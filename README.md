@@ -3,4 +3,7 @@
 
 如下图所示，在分类框中选好目标，下方出现蓝色字“读取到..个坐标文件”即可点击“写出点位”
 
-![LC9ACY)79X9%M WV8ZF}YJE](https://user-images.githubusercontent.com/90933865/218075804-68a8a2d9-8d4e-4536-99cc-1a5a992cd798.png)
+有任何程序错误/Bug请在“Issues”处提交，同时也欢迎任何人提交传送点，请联系我Discord ID：Roly#3663 
+
+
+![实例](https://user-images.githubusercontent.com/90933865/219725191-6134dad9-16e6-4b8f-9e7b-0a27c2146165.png)
